@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## module2 assignment
 
 You can use the [editor on GitHub](https://github.com/shrashti08/module2-assignment1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
